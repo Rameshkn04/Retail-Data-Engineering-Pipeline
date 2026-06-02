@@ -2,8 +2,8 @@
 
 > End-to-End Retail Data Engineering Pipeline using Python, Medallion Architecture, ETL Processing, KPI Engine, Logging Framework, and Power BI Dashboards.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square\&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-blue?style=flat-square\&logo=pandas)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-blue?style=flat-square&logo=pandas)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=flat-square)
 ![Architecture](https://img.shields.io/badge/Architecture-Medallion-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
@@ -14,7 +14,7 @@
 
 This project demonstrates the implementation of a complete Retail Data Engineering Pipeline following the Medallion Architecture (Bronze → Silver → Gold).
 
-The pipeline ingests raw retail transaction data from Excel files, performs data cleansing and transformation using Python and Pandas, generates analytical datasets and KPIs, and delivers business insights through interactive Power BI dashboards.
+The pipeline ingests raw retail transaction data from Excel files, performs data cleansing and transformation using Python and Pandas, generates analytical datasets and KPIs, and delivers business insights through Power BI dashboards.
 
 The project simulates a real-world Data Engineering workflow used by modern analytics teams.
 
@@ -43,11 +43,7 @@ This project solves these challenges by creating a structured ETL pipeline that 
 
 ## Current Architecture
 
-> Insert Architecture Image
-
-```text
-Architecture/Current_Architecture.png
-```
+![Architecture](Architecture/Current_Architecture.png)
 
 ### Architecture Flow
 
@@ -102,11 +98,7 @@ The Silver Layer contains cleaned and standardized datasets.
 
 ### Silver Layer Process Flow
 
-> Insert Process Flow Diagram
-
-```text
-Architecture/Silver_Layer_Process_Flow.png
-```
+![Silver Layer Process Flow](Architecture/Silver_Layer_Process_Flow.png)
 
 ### Data Quality Results
 
@@ -180,9 +172,7 @@ Features:
 
 Screenshot:
 
-```text
-Screenshots/Executive_Summary.png
-```
+![Executive Summary Dashboard](Screenshots/Executive_Summary.png)
 
 ---
 
@@ -196,9 +186,7 @@ Features:
 
 Screenshot:
 
-```text
-Screenshots/Revenue_Trends.png
-```
+![Revenue Trends Dashboard](Screenshots/Revenue_Trends.png)
 
 ---
 
@@ -212,9 +200,7 @@ Features:
 
 Screenshot:
 
-```text
-Screenshots/Product_Performance.png
-```
+![Product Performance Dashboard](Screenshots/Product_Performance.png)
 
 ---
 
@@ -228,9 +214,7 @@ Features:
 
 Screenshot:
 
-```text
-Screenshots/Category_Analysis.png
-```
+![Category Analysis Dashboard](Screenshots/Category_Analysis.png)
 
 ---
 
@@ -244,9 +228,7 @@ Features:
 
 Screenshot:
 
-```text
-Screenshots/Regional_Analysis.png
-```
+![Regional Analysis Dashboard](Screenshots/Regional_Analysis.png)
 
 ---
 
@@ -377,11 +359,7 @@ Planned Enterprise Architecture:
 * Azure SQL Database
 * Power BI Service
 
-> Insert Azure Architecture Diagram
-
-```text
-Architecture/Azure_Future_Architecture.png
-```
+![Azure Future Architecture](Architecture/Azure_Future_Architecture.png)
 
 ---
 
